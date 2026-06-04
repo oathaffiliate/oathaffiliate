@@ -10,7 +10,7 @@ Heavily into music ex. Slayr, Untiljapan, Vax, NewJusa, Destroy Lonely
 
 Repos are cucrrently empty but great things take time...
 
-Working on a portfolio tho
+Working on a portfolio tho give me time
 
 <!--
 **oathaffiliate/oathaffiliate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
