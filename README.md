@@ -1,4 +1,16 @@
-## Hi there 👋
+## Welcome To Oath's Domain
+
+I go by Seyi (/shā/)
+
+I create whatever it is that i want and post it here.
+
+My strongest tools are fl studio, C++, Premier Pro, and Illustrator.
+
+Heavily into music
+
+Repos are cucrrently empty but great things take time...
+
+WOrking on a portfolio tho
 
 <!--
 **oathaffiliate/oathaffiliate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
